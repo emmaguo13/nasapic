@@ -1,0 +1,30 @@
+Title: Halo of the Cat's Eye
+url: https://apod.nasa.gov/apod/image/0209/n6543_ing_c.jpg
+date: 2002-09-04
+copyright: undefined
+
+Title: HESS Gamma-Ray Telescope
+url: https://apod.nasa.gov/apod/image/0209/telescope_hess.jpg
+date: 2002-09-06
+copyright: undefined
+
+Title: Voyager Views Titan's Haze
+url: https://apod.nasa.gov/apod/image/0209/titanhaze_voyager1.jpg
+date: 2002-09-05
+copyright: undefined
+
+Title: The Hubble Deep Field
+url: https://apod.nasa.gov/apod/image/0007/deepfield_hst.jpg
+date: 2002-09-01
+copyright: undefined
+
+Title: A Dust Devil on Mars
+url: https://apod.nasa.gov/apod/image/0209/dustdevil_mgs.jpg
+date: 2002-09-03
+copyright: undefined
+
+Title: Colorful Light Pillars
+url: https://apod.nasa.gov/apod/image/0209/pillars_tape.jpg
+date: 2002-09-02
+copyright: Alaska FairbanksAtmospheric Halos
+
